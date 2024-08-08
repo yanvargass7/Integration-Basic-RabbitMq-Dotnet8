@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XB/rtbTjJxlkiwPusERfx9npWHasO7jC8MDQfWvc5P4=",
+  "Source": "IntegrationRabbitMQ.WebApi",
+  "BasePath": "_content/IntegrationRabbitMQ.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
